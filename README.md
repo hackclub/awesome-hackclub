@@ -1,5 +1,20 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
+
+## CLI tools
+
+* [memes](http://github.com/cjdenio/memes) - MEMES
+
+* [memes](http://github.com/cjdenio/memes) - MEMES
+
+* [memes](http://github.com/cjdenio/memes) - MEMES
+
+* [memes](http://github.com/cjdenio/memes) - MEMES
+
+* [memes](http://github.com/cjdenio/memes) - MEMES
+
+* [memes](http://github.com/cjdenio/memes) - MEMES
+
 * [memes](http://github.com/cjdenio/memes) - MEMES
 
 ## Adding your project
