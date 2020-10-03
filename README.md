@@ -1,8 +1,8 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
-## GitHub Actions
-- [gh_fsync](http://github.com/Matt-Gleich/gh_fsync) - ☁️
+## Web apps
+- [design](http://github.com/cjdenio/design) - DESIGN
 
 ## ✨ Adding your project
 
