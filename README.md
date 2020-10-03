@@ -1,6 +1,9 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
+## CLI tools
+- [gh_fsync](http://github.com/Matt-Gleich/gh_fsync) - MEMES
+
 ## GitHub Actions
 - [gh_fsync](http://github.com/Matt-Gleich/gh_fsync) - ☁️
 
