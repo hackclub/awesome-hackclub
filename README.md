@@ -1,4 +1,3 @@
-
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 * [memes](http://github.com/cjdenio/memes) - MEMES
