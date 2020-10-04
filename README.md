@@ -9,6 +9,7 @@
 
 ## GitHub Actions
 - **[gh_fsync](https://github.com/Matt-Gleich/gh_fsync)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
+- **[profile_stack](https://github.com/Matt-Gleich/profile_stack)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Python)** _🚀 Display your tech stack on your GitHub profile's README_
 
 ## Slack Apps/Bots
 - **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
