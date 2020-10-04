@@ -1,8 +1,8 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
-## Desktop Apps
-- [design](http://github.com/cjdenio/design) - (Go) MEMES
+## GitHub Actions
+- [design](http://github.com/cjdenio/design) - (TypeScript) DESIGN
 
 ## ✨ Adding your project
 
