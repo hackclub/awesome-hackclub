@@ -1,8 +1,8 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
-## GitHub Actions
-- [design](http://github.com/cjdenio/design) - (TypeScript) DESIGN
+## Browser Extensions
+- [cjdenio/Scroll Tracker](http://github.com/cjdenio/scroll-tracker) - (JavaScript) Track your scrolling distance on a variety of websites!
 
 ## ✨ Adding your project
 
