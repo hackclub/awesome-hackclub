@@ -7,6 +7,9 @@
 ## CLI Tools
 - **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
 
+## Developer Utilities
+- **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@fluttercommunity](https://github.com/fluttercommunity) - **(Dart)** _🎯 Dart package that automatically sorts all your flutter or dart imports._
+
 ## GitHub Actions
 - **[gh_fsync](https://github.com/Matt-Gleich/gh_fsync)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
 - **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
