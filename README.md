@@ -1,6 +1,12 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
+## CLI Tools
+- **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
+
+## Desktop Apps
+- **[Scrapple](https://github.com/LinusS1/Scrapple)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Post scrappy updates from your Mac!_
+
 ## Developer Utilities
 - **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@fluttercommunity](https://github.com/fluttercommunity) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
 
@@ -17,9 +23,6 @@
 ## Browser Extensions
 - **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
 
-## CLI Tools
-- **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
-
 ## ✨ Adding your project
 
-Are you a hackclubber and want your project here? Its easy! Just react to your ship message with the awesome emoji (:awesome:) and you will get a DM from the awesome-hackclub bot. Click Submit, fill-in the information, and wait for your project to be reviewed. Once the review is complete you will get another DM from the awesome-hackclub bot. Thats it! As long as it was approved you can check back in this repo!
+Are you a hackclubber and want your project here? Its easy! Just react to your ship message with the awesome emoji (:awesome:) and you will get a DM from the awesome-hackclub bot. Click Submit, fill-in the information, and wait for your project to be reviewed. Once the review is complete you will get another DM from the awesome-hackclub bot. Thats it! As long as it was approved you can check back in this repo! **Please only submit public, finished repositories that align with the [hack club code of conduct](https://hackclub.com/conduct/)**.
