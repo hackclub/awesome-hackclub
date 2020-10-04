@@ -9,6 +9,7 @@
 
 ## GitHub Actions
 - **[gh_fsync](https://github.com/Matt-Gleich/gh_fsync)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
+- **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
 - **[profile_stack](https://github.com/Matt-Gleich/profile_stack)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Python)** _🚀 Display your tech stack on your GitHub profile's README_
 
 ## Slack Apps/Bots
