@@ -4,6 +4,9 @@
 ## Browser Extensions
 - **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
 
+## CLI Tools
+- **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
+
 ## GitHub Actions
 - **[gh_fsync](https://github.com/Matt-Gleich/gh_fsync)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
 
