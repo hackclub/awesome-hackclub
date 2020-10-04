@@ -2,7 +2,10 @@
 > A collection of super awesome projects made by hackclubbers
 
 ## Browser Extensions
-- [cjdenio/Scroll Tracker](http://github.com/cjdenio/scroll-tracker) - (JavaScript) Track your scrolling distance on a variety of websites!
+- [Scroll Tracker](http://github.com/cjdenio/scroll-tracker)- [cjdenio](https://github.com/cjdenio) - (JavaScript) Track your scrolling distance on a variety of websites!
+
+## GitHub Actions
+- [gh_fsync](https://github.com/Matt-Gleich/gh_fsync)- [Matt-Gleich](https://github.com/Matt-Gleich) - (Go) 🔄 GitHub action to sync files across repos in GitHub
 
 ## ✨ Adding your project
 
