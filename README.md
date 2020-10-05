@@ -28,4 +28,4 @@
 
 ## ✨ Adding your project
 
-Are you a hackclubber and want your project here? Its easy! Just react to your ship message with the awesome emoji (:awesome:) and you will get a DM from the awesome-hackclub bot. Click Submit, fill-in the information, and wait for your project to be reviewed. Once the review is complete you will get another DM from the awesome-hackclub bot. Thats it! As long as it was approved you can check back in this repo! **Please only submit public, finished repositories that align with the [hack club code of conduct](https://hackclub.com/conduct/)**.
+Are you a hackclubber and want your project here? Its easy! Just react to your ship message with the awesome emoji (:awesome:) and you will get a DM from the awesome-hackclub bot. Click Submit, fill-in the information, and wait for your project to be reviewed. Once the review is complete you will get another DM from the awesome-hackclub bot. Thats it! As long as it was approved you can check back in this repo! **Please only submit public, finished repositories that align with the [Hack Club code of conduct](https://hackclub.com/conduct/)**.
