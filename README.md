@@ -1,22 +1,13 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
-## Slack Apps/Bots
-- **[slack-uno](https://github.com/cjdenio/slack-uno)** - [@cjdenio](https://github.com/cjdenio) - **(Dart)** _🎮 Play Uno in Slack!_
-- **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
-- **[FRCBot](http://github.com/deniosoftware/frcbot)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _FRC integration for Slack!_
-- **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
-
-## Web Apps
-- **[The State of Democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ The State of Democracy, around the world._
-- **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
-
 ## Browser Extensions
 - **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
 
 ## CLI Tools
 - **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
 - **[WarpDrive](https://github.com/quackduck/WarpDrive)** - [@quackduck](https://github.com/quackduck) - **(Java)** _Warp across directories_
+- **[Hoot](https://github.com/rishiosaur/hoot-cli)** - [@rishiosaur](https://github.com/rishiosaur) - **(JavaScript)** _An assignment tracker for tech-savvy students!_
 - **[namech](http://github.com/nindroz/namech)** - [@nindroz](https://github.com/nindroz) - **(JavaScript)** _Change the name of your project anytime with a simple CLI tool_
 
 ## Desktop Apps
@@ -29,6 +20,16 @@
 - **[gh_fsync](https://github.com/Matt-Gleich/gh_fsync)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
 - **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
 - **[profile_stack](https://github.com/Matt-Gleich/profile_stack)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Python)** _🚀 Display your tech stack on your GitHub profile's README_
+
+## Slack Apps/Bots
+- **[slack-uno](https://github.com/cjdenio/slack-uno)** - [@cjdenio](https://github.com/cjdenio) - **(Dart)** _🎮 Play Uno in Slack!_
+- **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
+- **[FRCBot](http://github.com/deniosoftware/frcbot)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _FRC integration for Slack!_
+- **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
+
+## Web Apps
+- **[The State of Democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ The State of Democracy, around the world._
+- **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
 
 ## ✨ Adding your project
 
