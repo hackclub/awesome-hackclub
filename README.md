@@ -25,6 +25,7 @@
 - **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
 
 ## Web Apps
+- **[certificates](https://github.com/garytou2/certificates)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Simple award certificate distribution system with a personalized link per recipient._
 - **[Hazen Zoom](https://github.com/garytou2/Hazen-Zoom)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
 - **[The State of Democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ The State of Democracy, around the world._
 - **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
