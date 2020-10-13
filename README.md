@@ -1,9 +1,6 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
-## Developer Utilities
-- **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
-
 ## GitHub Actions
 - **[gh_fsync](https://github.com/Matt-Gleich/gh_fsync)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
 - **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
@@ -13,6 +10,7 @@
 - **[slack-uno](https://github.com/cjdenio/slack-uno)** - [@cjdenio](https://github.com/cjdenio) - **(Dart)** _🎮 Play Uno in Slack!_
 - **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
 - **[FRCBot](http://github.com/deniosoftware/frcbot)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _FRC integration for Slack!_
+- **[Today](https://github.com/LinusS1/Today)** - [@LinusS1](https://github.com/LinusS1) - **(Python)** _Date as a Service: Get today's date in Slack._
 - **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
 
 ## Web Apps
@@ -33,6 +31,9 @@
 
 ## Desktop Apps
 - **[Scrapple](https://github.com/LinusS1/Scrapple)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Post scrappy updates from your Mac!_
+
+## Developer Utilities
+- **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
 
 ## ✨ Adding your project
 
