@@ -1,2 +1,6 @@
 * text=auto
 readme.md merge=union
+
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+
