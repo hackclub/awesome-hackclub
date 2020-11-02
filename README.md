@@ -1,6 +1,18 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
+## Browser Extensions
+- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
+
+## CLI Tools
+- **[fgh](https://github.com/Matt-Gleich/fgh)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📁 Automate the organization of your cloned GitHub repositories_
+- **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
+- **[uniclip](https://github.com/quackduck/uniclip)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Cross-platform shared clipboard to copy on one device and paste on another_
+- **[WarpDrive](https://github.com/quackduck/WarpDrive)** - [@quackduck](https://github.com/quackduck) - **(Java)** _Warp across directories_
+- **[hcload](https://github.com/KhushrajRathod/hcload)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Upload files to Hackclub's CDN using your CLI_
+- **[Hoot](https://github.com/rishiosaur/hoot-cli)** - [@rishiosaur](https://github.com/rishiosaur) - **(JavaScript)** _An assignment tracker for tech-savvy students!_
+- **[namech](http://github.com/nindroz/namech)** - [@nindroz](https://github.com/nindroz) - **(JavaScript)** _Change the name of your project anytime with a simple CLI tool_
+
 ## Desktop Apps
 - **[TeleDrive](https://github.com/KhushrajRathod/TeleDrive)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Backup files (watch a dir) to telegram saved messages for unlimited storage_
 - **[Scrapple](https://github.com/LinusS1/Scrapple)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Post scrappy updates from your Mac!_
@@ -31,17 +43,6 @@
 - **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
 - **[nahor](https://github.com/Rohan-Bansal/nahor)** - [@Rohan-Bansal](https://github.com/Rohan-Bansal) - **(Python)** _a custom url-shortener for personal (or public) use!_
 - **[LL](https://github.com/rishiosaur/ll)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A minimal (but blazing fast) link shortener written on Vercel and Firebase._
-
-## Browser Extensions
-- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
-
-## CLI Tools
-- **[fgh](https://github.com/Matt-Gleich/fgh)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📁 Automate the organization of your cloned GitHub repositories_
-- **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
-- **[WarpDrive](https://github.com/quackduck/WarpDrive)** - [@quackduck](https://github.com/quackduck) - **(Java)** _Warp across directories_
-- **[hcload](https://github.com/KhushrajRathod/hcload)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Upload files to Hackclub's CDN using your CLI_
-- **[Hoot](https://github.com/rishiosaur/hoot-cli)** - [@rishiosaur](https://github.com/rishiosaur) - **(JavaScript)** _An assignment tracker for tech-savvy students!_
-- **[namech](http://github.com/nindroz/namech)** - [@nindroz](https://github.com/nindroz) - **(JavaScript)** _Change the name of your project anytime with a simple CLI tool_
 
 ## ✨ Adding your project
 
