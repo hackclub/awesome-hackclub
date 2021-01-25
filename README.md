@@ -11,6 +11,7 @@
 - **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
 - **[FRCBot](http://github.com/deniosoftware/frcbot)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _FRC integration for Slack!_
 - **[HackClubKarma](https://github.com/KhushrajRathod/HackClubKarma)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Karma system @hackclub_
+- **[LightningDelete](https://github.com/KhushrajRathod/LightningDelete)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Slack bot that lets you instantly delete your last message(s)_
 - **[Today](https://github.com/LinusS1/Today)** - [@LinusS1](https://github.com/LinusS1) - **(Python)** _Date as a Service: Get today's date in Slack._
 - **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
 - **[Prox2](https://github.com/anirudhb/prox2)** - [@anirudhb](https://github.com/anirudhb) - **(TypeScript)** _The reincarnation of Prox._
