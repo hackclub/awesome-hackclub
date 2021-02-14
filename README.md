@@ -1,6 +1,21 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
+## Web Apps
+- **[certificates](https://github.com/garytou2/certificates)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Simple award certificate distribution system with a personalized link per recipient._
+- **[Hazen Zoom](https://github.com/garytou2/Hazen-Zoom)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
+- **[The State of Democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ The State of Democracy, around the world._
+- **[umbrella](https://github.com/googol88/umbrella)** - [@googol88](https://github.com/googol88) - **(JavaScript)** _☂️ A platform for social activists to create Post-It note murals_
+- **[weatherer](https://github.com/faisalsayed10/weatherer)** - [@faisalsayed10](https://github.com/faisalsayed10) - **(JavaScript)** _Weather app build with React JS and a Weather API._
+- **[wordcounter](https://github.com/jasonappah/wordcounter)** - [@jasonappah](https://github.com/jasonappah) - **(JavaScript)** _Next.js app to keep track of a document's word count in a simple, easy UI_
+- **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
+- **[nahor](https://github.com/Rohan-Bansal/nahor)** - [@Rohan-Bansal](https://github.com/Rohan-Bansal) - **(Python)** _a custom url-shortener for personal (or public) use!_
+- **[LL](https://github.com/rishiosaur/ll)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A minimal (but blazing fast) link shortener written on Vercel and Firebase._
+
+## Browser Extensions
+- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
+- **[Shakespeare Insults](https://github.com/JeswinSunsi/Shakespeare)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(JavaScript)** _Generate funny English insults with Shakespeare's vocabulary._
+
 ## CLI Tools
 - **[ctree](https://github.com/Matt-Gleich/ctree)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🎄 A Christmas tree right from your terminal! _
 - **[fgh](https://github.com/Matt-Gleich/fgh)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📁 Automate the organization of your cloned GitHub repositories_
@@ -28,6 +43,7 @@
 - **[statuser](https://github.com/Matt-Gleich/statuser)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📣  A user-friendly status outputting library for go_
 - **[home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _A collection of serverless functions to automate different services._
 - **[sailboat](https://github.com/cole-wilson/sailboat)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _🐍 A quick and easy way to distribute your Python projects!_
+- **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
 - **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
 
 ## GitHub Actions
@@ -44,20 +60,6 @@
 - **[Today](https://github.com/LinusS1/Today)** - [@LinusS1](https://github.com/LinusS1) - **(Python)** _Date as a Service: Get today's date in Slack._
 - **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
 - **[Prox2](https://github.com/anirudhb/prox2)** - [@anirudhb](https://github.com/anirudhb) - **(TypeScript)** _The reincarnation of Prox._
-
-## Web Apps
-- **[certificates](https://github.com/garytou2/certificates)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Simple award certificate distribution system with a personalized link per recipient._
-- **[Hazen Zoom](https://github.com/garytou2/Hazen-Zoom)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
-- **[The State of Democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ The State of Democracy, around the world._
-- **[weatherer](https://github.com/faisalsayed10/weatherer)** - [@faisalsayed10](https://github.com/faisalsayed10) - **(JavaScript)** _Weather app build with React JS and a Weather API._
-- **[wordcounter](https://github.com/jasonappah/wordcounter)** - [@jasonappah](https://github.com/jasonappah) - **(JavaScript)** _Next.js app to keep track of a document's word count in a simple, easy UI_
-- **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
-- **[nahor](https://github.com/Rohan-Bansal/nahor)** - [@Rohan-Bansal](https://github.com/Rohan-Bansal) - **(Python)** _a custom url-shortener for personal (or public) use!_
-- **[LL](https://github.com/rishiosaur/ll)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A minimal (but blazing fast) link shortener written on Vercel and Firebase._
-
-## Browser Extensions
-- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
-- **[Shakespeare Insults](https://github.com/JeswinSunsi/Shakespeare)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(JavaScript)** _Generate funny English insults with Shakespeare's vocabulary._
 
 ## ✨ Adding your project
 
