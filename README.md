@@ -1,6 +1,17 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
+## Slack Apps/Bots
+- **[slack-uno](https://github.com/cjdenio/slack-uno)** - [@cjdenio](https://github.com/cjdenio) - **(Dart)** _🎮 Play Uno in Slack!_
+- **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
+- **[FRCBot](http://github.com/deniosoftware/frcbot)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _FRC integration for Slack!_
+- **[HackClubKarma](https://github.com/KhushrajRathod/HackClubKarma)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Karma system @hackclub_
+- **[LightningDelete](https://github.com/KhushrajRathod/LightningDelete)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Slack bot that lets you instantly delete your last message(s)_
+- **[Today](https://github.com/LinusS1/Today)** - [@LinusS1](https://github.com/LinusS1) - **(Python)** _Date as a Service: Get today's date in Slack._
+- **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
+- **[Prox2](https://github.com/anirudhb/prox2)** - [@anirudhb](https://github.com/anirudhb) - **(TypeScript)** _The reincarnation of Prox._
+- **[Teller](https://github.com/rishiosaur/teller)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _🚀 The Slackbot for human HN interaction!_
+
 ## Web Apps
 - **[certificates](https://github.com/garytou2/certificates)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Simple award certificate distribution system with a personalized link per recipient._
 - **[Hazen Zoom](https://github.com/garytou2/Hazen-Zoom)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
@@ -47,21 +58,13 @@
 - **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
 - **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
 
+## Fun & Games
+- **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
+
 ## GitHub Actions
 - **[gh_fsync](https://github.com/Matt-Gleich/gh_fsync)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
 - **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
 - **[profile_stack](https://github.com/Matt-Gleich/profile_stack)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Python)** _🚀 Display your tech stack on your GitHub profile's README_
-
-## Slack Apps/Bots
-- **[slack-uno](https://github.com/cjdenio/slack-uno)** - [@cjdenio](https://github.com/cjdenio) - **(Dart)** _🎮 Play Uno in Slack!_
-- **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
-- **[FRCBot](http://github.com/deniosoftware/frcbot)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _FRC integration for Slack!_
-- **[HackClubKarma](https://github.com/KhushrajRathod/HackClubKarma)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Karma system @hackclub_
-- **[LightningDelete](https://github.com/KhushrajRathod/LightningDelete)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Slack bot that lets you instantly delete your last message(s)_
-- **[Today](https://github.com/LinusS1/Today)** - [@LinusS1](https://github.com/LinusS1) - **(Python)** _Date as a Service: Get today's date in Slack._
-- **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
-- **[Prox2](https://github.com/anirudhb/prox2)** - [@anirudhb](https://github.com/anirudhb) - **(TypeScript)** _The reincarnation of Prox._
-- **[Teller](https://github.com/rishiosaur/teller)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _🚀 The Slackbot for human HN interaction!_
 
 ## ✨ Adding your project
 
