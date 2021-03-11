@@ -1,8 +1,13 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
+## Browser Extensions
+- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
+- **[Shakespeare Insults](https://github.com/JeswinSunsi/Shakespeare)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(JavaScript)** _Generate funny English insults with Shakespeare's vocabulary._
+
 ## CLI Tools
 - **[ctree](https://github.com/Matt-Gleich/ctree)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🎄 A Christmas tree right from your terminal! _
+- **[Dl](https://github.com/quackduck/dl)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Print, download or copy website content with beautiful progress bars._
 - **[fgh](https://github.com/Matt-Gleich/fgh)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📁 Automate the organization of your cloned GitHub repositories_
 - **[ncis](https://github.com/quackduck/ncis)** - [@quackduck](https://github.com/quackduck) - **(Go)** _No computer is secure, mate. Brute force SSH tool that actually works._
 - **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
@@ -30,6 +35,7 @@
 - **[home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _A collection of serverless functions to automate different services._
 - **[sailboat](https://github.com/cole-wilson/sailboat)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _🐍 A quick and easy way to distribute your Python projects!_
 - **[idyllic](https://github.com/rishiosaur/idyllic)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _⚡️ An unopinionated language for building APIs ridiculously fast._
+- **[Lucia](https://github.com/aidenybai/lucia)** - [@aidenybai](https://github.com/aidenybai) - **(TypeScript)** _🙋‍♀️ 3kb library for tiny web apps_
 - **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
 - **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
 
@@ -62,10 +68,6 @@
 - **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
 - **[nahor](https://github.com/Rohan-Bansal/nahor)** - [@Rohan-Bansal](https://github.com/Rohan-Bansal) - **(Python)** _a custom url-shortener for personal (or public) use!_
 - **[LL](https://github.com/rishiosaur/ll)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A minimal (but blazing fast) link shortener written on Vercel and Firebase._
-
-## Browser Extensions
-- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
-- **[Shakespeare Insults](https://github.com/JeswinSunsi/Shakespeare)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(JavaScript)** _Generate funny English insults with Shakespeare's vocabulary._
 
 ## ✨ Adding your project
 
