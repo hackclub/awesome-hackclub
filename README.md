@@ -12,6 +12,7 @@
 - **[ncis](https://github.com/quackduck/ncis)** - [@quackduck](https://github.com/quackduck) - **(Go)** _No computer is secure, mate. Brute force SSH tool that actually works._
 - **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
 - **[Rem](https://github.com/quackduck/rem)** - [@quackduck](https://github.com/quackduck) - **(Go)** _The CLI trash that makes it ridiculously easy to recover files_
+- **[Secret](https://github.com/quackduck/secret)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Encrypt any file with a password super easily!_
 - **[Sepia Language](https://github.com/rishiosaur/sepia)** - [@rishiosaur](https://github.com/rishiosaur) - **(Go)** _A minimal programming language designed for readability and functionality._
 - **[Tii](https://github.com/quackduck/tii)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Command not found on macOS? Install it right there!_
 - **[uniclip](https://github.com/quackduck/uniclip)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Cross-platform shared clipboard to copy on one device and paste on another_
