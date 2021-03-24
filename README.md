@@ -1,6 +1,17 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
+## Developer Utilities
+- **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
+- **[ffgen](http://github.com/cjdenio/ffgen)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _🎨 Quickly and easily generate @font-face rules for CSS!_
+- **[statuser](https://github.com/Matt-Gleich/statuser)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📣  A user-friendly status outputting library for go_
+- **[home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _A collection of serverless functions to automate different services._
+- **[sailboat](https://github.com/cole-wilson/sailboat)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _🐍 A quick and easy way to distribute your Python projects!_
+- **[idyllic](https://github.com/rishiosaur/idyllic)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _⚡️ An unopinionated language for building APIs ridiculously fast._
+- **[Lucia](https://github.com/aidenybai/lucia)** - [@aidenybai](https://github.com/aidenybai) - **(TypeScript)** _🙋‍♀️ 3kb library for tiny web apps_
+- **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
+- **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
+
 ## Fun & Games
 - **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
 - **[sound-festival](https://github.com/sampoder/sound-festival)** - [@sampoder](https://github.com/sampoder) - **(C++)** _An interactive sound festival built for Innovation Week 2021_
@@ -27,7 +38,9 @@
 - **[Teller](https://github.com/rishiosaur/teller)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _🚀 The Slackbot for human HN interaction!_
 
 ## Web Apps
+- **[buzza](https://github.com/sampoder/buzza)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💥 A buzzer app for Quiz Bowls made using Socket.io & Javascript. _
 - **[certificates](https://github.com/garytou2/certificates)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Simple award certificate distribution system with a personalized link per recipient._
+- **[collab-hub](https://github.com/sampoder/collab-hub)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖌 A platform for students to collaborate on art virtually_
 - **[democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ Explore the State of Democracy around the world._
 - **[Hazen Zoom](https://github.com/garytou2/Hazen-Zoom)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
 - **[personal-project-showcase](https://github.com/sampoder/personal-project-showcase)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _A website to showcase my peer's MYP personal projects!_
@@ -69,17 +82,6 @@
 - **[HouseChat](https://github.com/LinusS1/HouseChat)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Simple messaging for Apple devices _
 - **[LMGTFYAsAService](https://github.com/LinusS1/LMGTFYAsAService)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _macOS Service to help those who don't help themselves_
 - **[Scrapple](https://github.com/LinusS1/Scrapple)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Post scrappy updates from your Mac!_
-
-## Developer Utilities
-- **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
-- **[ffgen](http://github.com/cjdenio/ffgen)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _🎨 Quickly and easily generate @font-face rules for CSS!_
-- **[statuser](https://github.com/Matt-Gleich/statuser)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📣  A user-friendly status outputting library for go_
-- **[home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _A collection of serverless functions to automate different services._
-- **[sailboat](https://github.com/cole-wilson/sailboat)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _🐍 A quick and easy way to distribute your Python projects!_
-- **[idyllic](https://github.com/rishiosaur/idyllic)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _⚡️ An unopinionated language for building APIs ridiculously fast._
-- **[Lucia](https://github.com/aidenybai/lucia)** - [@aidenybai](https://github.com/aidenybai) - **(TypeScript)** _🙋‍♀️ 3kb library for tiny web apps_
-- **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
-- **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
 
 ## ✨ Adding your project
 
