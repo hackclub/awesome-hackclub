@@ -1,6 +1,15 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
+## Fun & Games
+- **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
+- **[sound-festival](https://github.com/sampoder/sound-festival)** - [@sampoder](https://github.com/sampoder) - **(C++)** _An interactive sound festival built for Innovation Week 2021_
+- **[dance-x-factor](https://github.com/sampoder/dance-x-factor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💃 Do some dancing and the X-Factor judges (AI) will judge you!_
+- **[holocron](https://github.com/sampoder/holocron)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🥽 Use your Jedi Challenges headset for anything!_
+- **[live-draw](https://github.com/sampoder/live-draw)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖍A live activity for events where attendees write code to draw!_
+- **[The Nerfanator](https://github.com/sampoder/nerfanator)** - [@sampoder](https://github.com/sampoder) - **(Python)** _"The Ultimate Home Protector", more like the worst._
+- **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
+
 ## GitHub Actions
 - **[gh_fsync](https://github.com/Matt-Gleich/gh_fsync)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
 - **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
@@ -22,6 +31,7 @@
 - **[Hazen Zoom](https://github.com/garytou2/Hazen-Zoom)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
 - **[personal-project-showcase](https://github.com/sampoder/personal-project-showcase)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _A website to showcase my peer's MYP personal projects!_
 - **[The State of Democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ The State of Democracy, around the world._
+- **[traffic-monitor](https://github.com/sampoder/traffic-monitor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🚦Monitor the traffic around Singapore!_
 - **[umbrella](https://github.com/googol88/umbrella)** - [@googol88](https://github.com/googol88) - **(JavaScript)** _☂️ A platform for social activists to create Post-It note murals_
 - **[weatherer](https://github.com/faisalsayed10/weatherer)** - [@faisalsayed10](https://github.com/faisalsayed10) - **(JavaScript)** _Weather app build with React JS and a Weather API._
 - **[wordcounter](https://github.com/jasonappah/wordcounter)** - [@jasonappah](https://github.com/jasonappah) - **(JavaScript)** _Next.js app to keep track of a document's word count in a simple, easy UI_
@@ -68,15 +78,6 @@
 - **[Lucia](https://github.com/aidenybai/lucia)** - [@aidenybai](https://github.com/aidenybai) - **(TypeScript)** _🙋‍♀️ 3kb library for tiny web apps_
 - **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
 - **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
-
-## Fun & Games
-- **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
-- **[sound-festival](https://github.com/sampoder/sound-festival)** - [@sampoder](https://github.com/sampoder) - **(C++)** _An interactive sound festival built for Innovation Week 2021_
-- **[dance-x-factor](https://github.com/sampoder/dance-x-factor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💃 Do some dancing and the X-Factor judges (AI) will judge you!_
-- **[holocron](https://github.com/sampoder/holocron)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🥽 Use your Jedi Challenges headset for anything!_
-- **[live-draw](https://github.com/sampoder/live-draw)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖍A live activity for events where attendees write code to draw!_
-- **[The Nerfanator](https://github.com/sampoder/nerfanator)** - [@sampoder](https://github.com/sampoder) - **(Python)** _"The Ultimate Home Protector", more like the worst._
-- **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
 
 ## ✨ Adding your project
 
