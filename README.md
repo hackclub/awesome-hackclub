@@ -1,35 +1,6 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
-## Browser Extensions
-- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
-- **[Shakespeare Insults](https://github.com/JeswinSunsi/Shakespeare)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(JavaScript)** _Generate funny English insults with Shakespeare's vocabulary._
-
-## CLI Tools
-- **[ctree](https://github.com/Matt-Gleich/ctree)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🎄 A Christmas tree right from your terminal! _
-- **[Dl](https://github.com/quackduck/dl)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Print, download or copy website content with beautiful progress bars._
-- **[fgh](https://github.com/Matt-Gleich/fgh)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📁 Automate the organization of your cloned GitHub repositories_
-- **[ncis](https://github.com/quackduck/ncis)** - [@quackduck](https://github.com/quackduck) - **(Go)** _No computer is secure, mate. Brute force SSH tool that actually works._
-- **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
-- **[Rem](https://github.com/quackduck/rem)** - [@quackduck](https://github.com/quackduck) - **(Go)** _The CLI trash that makes it ridiculously easy to recover files_
-- **[Secret](https://github.com/quackduck/secret)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Encrypt any file with a password super easily!_
-- **[Sepia Language](https://github.com/rishiosaur/sepia)** - [@rishiosaur](https://github.com/rishiosaur) - **(Go)** _A minimal programming language designed for readability and functionality._
-- **[Tii](https://github.com/quackduck/tii)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Command not found on macOS? Install it right there!_
-- **[uniclip](https://github.com/quackduck/uniclip)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Cross-platform shared clipboard to copy on one device and paste on another_
-- **[WarpDrive](https://github.com/quackduck/WarpDrive)** - [@quackduck](https://github.com/quackduck) - **(Java)** _Warp across directories_
-- **[hcload](https://github.com/KhushrajRathod/hcload)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Upload files to Hackclub's CDN using your CLI_
-- **[Hoot](https://github.com/rishiosaur/hoot-cli)** - [@rishiosaur](https://github.com/rishiosaur) - **(JavaScript)** _An assignment tracker for tech-savvy students!_
-- **[namech](http://github.com/nindroz/namech)** - [@nindroz](https://github.com/nindroz) - **(JavaScript)** _Change the name of your project anytime with a simple CLI tool_
-- **[nought](https://github.com/cole-wilson/nought)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _A super customizable file cleaner/organizer/automator for developers._
-- **[p5_commander](https://github.com/SquarePear/p5_commander)** - [@SquarePear](https://github.com/SquarePear) - **(TypeScript)** _A tool to easily manage and create p5 sketches_
-
-## Desktop Apps
-- **[TeleDrive](https://github.com/KhushrajRathod/TeleDrive)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Backup files (watch a dir) to telegram saved messages for unlimited storage_
-- **[Penty](http://github.com/jeswinsunsi/pentyDesktopAssistant)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(Python)** _A Windows desktop assistant with GUI._
-- **[HouseChat](https://github.com/LinusS1/HouseChat)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Simple messaging for Apple devices _
-- **[LMGTFYAsAService](https://github.com/LinusS1/LMGTFYAsAService)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _macOS Service to help those who don't help themselves_
-- **[Scrapple](https://github.com/LinusS1/Scrapple)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Post scrappy updates from your Mac!_
-
 ## Developer Utilities
 - **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
 - **[ffgen](http://github.com/cjdenio/ffgen)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _🎨 Quickly and easily generate @font-face rules for CSS!_
@@ -42,6 +13,7 @@
 - **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
 
 ## Fun & Games
+- **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
 - **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
 
 ## GitHub Actions
@@ -71,6 +43,35 @@
 - **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
 - **[nahor](https://github.com/Rohan-Bansal/nahor)** - [@Rohan-Bansal](https://github.com/Rohan-Bansal) - **(Python)** _a custom url-shortener for personal (or public) use!_
 - **[LL](https://github.com/rishiosaur/ll)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A minimal (but blazing fast) link shortener written on Vercel and Firebase._
+
+## Browser Extensions
+- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
+- **[Shakespeare Insults](https://github.com/JeswinSunsi/Shakespeare)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(JavaScript)** _Generate funny English insults with Shakespeare's vocabulary._
+
+## CLI Tools
+- **[ctree](https://github.com/Matt-Gleich/ctree)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🎄 A Christmas tree right from your terminal! _
+- **[Dl](https://github.com/quackduck/dl)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Print, download or copy website content with beautiful progress bars._
+- **[fgh](https://github.com/Matt-Gleich/fgh)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📁 Automate the organization of your cloned GitHub repositories_
+- **[ncis](https://github.com/quackduck/ncis)** - [@quackduck](https://github.com/quackduck) - **(Go)** _No computer is secure, mate. Brute force SSH tool that actually works._
+- **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
+- **[Rem](https://github.com/quackduck/rem)** - [@quackduck](https://github.com/quackduck) - **(Go)** _The CLI trash that makes it ridiculously easy to recover files_
+- **[Secret](https://github.com/quackduck/secret)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Encrypt any file with a password super easily!_
+- **[Sepia Language](https://github.com/rishiosaur/sepia)** - [@rishiosaur](https://github.com/rishiosaur) - **(Go)** _A minimal programming language designed for readability and functionality._
+- **[Tii](https://github.com/quackduck/tii)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Command not found on macOS? Install it right there!_
+- **[uniclip](https://github.com/quackduck/uniclip)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Cross-platform shared clipboard to copy on one device and paste on another_
+- **[WarpDrive](https://github.com/quackduck/WarpDrive)** - [@quackduck](https://github.com/quackduck) - **(Java)** _Warp across directories_
+- **[hcload](https://github.com/KhushrajRathod/hcload)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Upload files to Hackclub's CDN using your CLI_
+- **[Hoot](https://github.com/rishiosaur/hoot-cli)** - [@rishiosaur](https://github.com/rishiosaur) - **(JavaScript)** _An assignment tracker for tech-savvy students!_
+- **[namech](http://github.com/nindroz/namech)** - [@nindroz](https://github.com/nindroz) - **(JavaScript)** _Change the name of your project anytime with a simple CLI tool_
+- **[nought](https://github.com/cole-wilson/nought)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _A super customizable file cleaner/organizer/automator for developers._
+- **[p5_commander](https://github.com/SquarePear/p5_commander)** - [@SquarePear](https://github.com/SquarePear) - **(TypeScript)** _A tool to easily manage and create p5 sketches_
+
+## Desktop Apps
+- **[TeleDrive](https://github.com/KhushrajRathod/TeleDrive)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Backup files (watch a dir) to telegram saved messages for unlimited storage_
+- **[Penty](http://github.com/jeswinsunsi/pentyDesktopAssistant)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(Python)** _A Windows desktop assistant with GUI._
+- **[HouseChat](https://github.com/LinusS1/HouseChat)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Simple messaging for Apple devices _
+- **[LMGTFYAsAService](https://github.com/LinusS1/LMGTFYAsAService)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _macOS Service to help those who don't help themselves_
+- **[Scrapple](https://github.com/LinusS1/Scrapple)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Post scrappy updates from your Mac!_
 
 ## ✨ Adding your project
 
