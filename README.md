@@ -28,8 +28,10 @@
 
 ## Web Apps
 - **[certificates](https://github.com/garytou2/certificates)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Simple award certificate distribution system with a personalized link per recipient._
+- **[democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ Explore the State of Democracy around the world._
 - **[Hazen Zoom](https://github.com/garytou2/Hazen-Zoom)** - [@garytou2](https://github.com/garytou2) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
 - **[personal-project-showcase](https://github.com/sampoder/personal-project-showcase)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _A website to showcase my peer's MYP personal projects!_
+- **[scrapbook-network](https://github.com/hackclub/scrapbook-network)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _Representation of the network created by Scrapbook's webring feature._
 - **[The State of Democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ The State of Democracy, around the world._
 - **[traffic-monitor](https://github.com/sampoder/traffic-monitor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🚦Monitor the traffic around Singapore!_
 - **[umbrella](https://github.com/googol88/umbrella)** - [@googol88](https://github.com/googol88) - **(JavaScript)** _☂️ A platform for social activists to create Post-It note murals_
