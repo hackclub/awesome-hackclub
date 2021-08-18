@@ -1,32 +1,6 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
-## Developer Utilities
-- **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@gleich](https://github.com/gleich) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
-- **[ffgen](http://github.com/cjdenio/ffgen)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _🎨 Quickly and easily generate @font-face rules for CSS!_
-- **[statuser](https://github.com/gleich/statuser)** - [@gleich](https://github.com/gleich) - **(Go)** _📣  A user-friendly status outputting library for go_
-- **[home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _A collection of serverless functions to automate different services._
-- **[sailboat](https://github.com/cole-wilson/sailboat)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _🐍 A quick and easy way to distribute your Python projects!_
-- **[idyllic](https://github.com/rishiosaur/idyllic)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _⚡️ An unopinionated language for building APIs ridiculously fast._
-- **[Lucia](https://github.com/aidenybai/lucia)** - [@aidenybai](https://github.com/aidenybai) - **(TypeScript)** _🙋‍♀️ 3kb library for tiny web apps_
-- **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
-- **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
-
-## Fun & Games
-- **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
-- **[sound-festival](https://github.com/sampoder/sound-festival)** - [@sampoder](https://github.com/sampoder) - **(C++)** _An interactive sound festival built for Innovation Week 2021_
-- **[devchat](https://github.com/quackduck/devchat)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Chat over SSH - Run `ssh sshchat.hackclub.com -p 2222` to join!_
-- **[dance-x-factor](https://github.com/sampoder/dance-x-factor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💃 Do some dancing and the X-Factor judges (AI) will judge you!_
-- **[holocron](https://github.com/sampoder/holocron)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🥽 Use your Jedi Challenges headset for anything!_
-- **[live-draw](https://github.com/sampoder/live-draw)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖍A live activity for events where attendees write code to draw!_
-- **[The Nerfanator](https://github.com/sampoder/nerfanator)** - [@sampoder](https://github.com/sampoder) - **(Python)** _"The Ultimate Home Protector", more like the worst._
-- **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
-
-## GitHub Actions
-- **[gh_fsync](https://github.com/gleich/gh_fsync)** - [@gleich](https://github.com/gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
-- **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
-- **[profile_stack](https://github.com/gleich/profile_stack)** - [@gleich](https://github.com/gleich) - **(Python)** _🚀 Display your tech stack on your GitHub profile's README_
-
 ## Slack Apps/Bots
 - **[slack-uno](https://github.com/cjdenio/slack-uno)** - [@cjdenio](https://github.com/cjdenio) - **(Dart)** _🎮 Play Uno in Slack!_
 - **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
@@ -61,11 +35,12 @@
 - **[Shakespeare Insults](https://github.com/JeswinSunsi/Shakespeare)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(JavaScript)** _Generate funny English insults with Shakespeare's vocabulary._
 
 ## CLI Tools
-- **[ctree](https://github.com/gleich/ctree)** - [@gleich](https://github.com/gleich) - **(Go)** _🎄 A Christmas tree right from your terminal! _
+- **[Aces](http://github.com/quackduck/aces)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Encode in a character set of your choice. Aces is a generalized encoder._
+- **[ctree](https://github.com/Matt-Gleich/ctree)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🎄 A Christmas tree right from your terminal! _
 - **[Dl](https://github.com/quackduck/dl)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Print, download or copy website content with beautiful progress bars._
-- **[fgh](https://github.com/gleich/fgh)** - [@gleich](https://github.com/gleich) - **(Go)** _📁 Automate the organization of your cloned GitHub repositories_
+- **[fgh](https://github.com/Matt-Gleich/fgh)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📁 Automate the organization of your cloned GitHub repositories_
 - **[ncis](https://github.com/quackduck/ncis)** - [@quackduck](https://github.com/quackduck) - **(Go)** _No computer is secure, mate. Brute force SSH tool that actually works._
-- **[nuke](https://github.com/gleich/nuke)** - [@gleich](https://github.com/gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
+- **[nuke](https://github.com/Matt-Gleich/nuke)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _☢️ Force quit all applications with one terminal command in macOS and Linux_
 - **[Rem](https://github.com/quackduck/rem)** - [@quackduck](https://github.com/quackduck) - **(Go)** _The CLI trash that makes it ridiculously easy to recover files_
 - **[Secret](https://github.com/quackduck/secret)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Encrypt any file with a password super easily!_
 - **[Sepia Language](https://github.com/rishiosaur/sepia)** - [@rishiosaur](https://github.com/rishiosaur) - **(Go)** _A minimal programming language designed for readability and functionality._
@@ -84,6 +59,32 @@
 - **[HouseChat](https://github.com/LinusS1/HouseChat)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Simple messaging for Apple devices _
 - **[LMGTFYAsAService](https://github.com/LinusS1/LMGTFYAsAService)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _macOS Service to help those who don't help themselves_
 - **[Scrapple](https://github.com/LinusS1/Scrapple)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Post scrappy updates from your Mac!_
+
+## Developer Utilities
+- **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
+- **[ffgen](http://github.com/cjdenio/ffgen)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _🎨 Quickly and easily generate @font-face rules for CSS!_
+- **[statuser](https://github.com/Matt-Gleich/statuser)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _📣  A user-friendly status outputting library for go_
+- **[home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _A collection of serverless functions to automate different services._
+- **[sailboat](https://github.com/cole-wilson/sailboat)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _🐍 A quick and easy way to distribute your Python projects!_
+- **[idyllic](https://github.com/rishiosaur/idyllic)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _⚡️ An unopinionated language for building APIs ridiculously fast._
+- **[Lucia](https://github.com/aidenybai/lucia)** - [@aidenybai](https://github.com/aidenybai) - **(TypeScript)** _🙋‍♀️ 3kb library for tiny web apps_
+- **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
+- **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
+
+## Fun & Games
+- **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
+- **[sound-festival](https://github.com/sampoder/sound-festival)** - [@sampoder](https://github.com/sampoder) - **(C++)** _An interactive sound festival built for Innovation Week 2021_
+- **[devchat](https://github.com/quackduck/devchat)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Chat over SSH - Run `ssh sshchat.hackclub.com -p 2222` to join!_
+- **[dance-x-factor](https://github.com/sampoder/dance-x-factor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💃 Do some dancing and the X-Factor judges (AI) will judge you!_
+- **[holocron](https://github.com/sampoder/holocron)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🥽 Use your Jedi Challenges headset for anything!_
+- **[live-draw](https://github.com/sampoder/live-draw)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖍A live activity for events where attendees write code to draw!_
+- **[The Nerfanator](https://github.com/sampoder/nerfanator)** - [@sampoder](https://github.com/sampoder) - **(Python)** _"The Ultimate Home Protector", more like the worst._
+- **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
+
+## GitHub Actions
+- **[gh_fsync](https://github.com/Matt-Gleich/gh_fsync)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
+- **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
+- **[profile_stack](https://github.com/Matt-Gleich/profile_stack)** - [@Matt-Gleich](https://github.com/Matt-Gleich) - **(Python)** _🚀 Display your tech stack on your GitHub profile's README_
 
 ## ✨ Adding your project
 
