@@ -1,6 +1,36 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
+## Desktop Apps
+- **[TeleDrive](https://github.com/KhushrajRathod/TeleDrive)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Backup files (watch a dir) to telegram saved messages for unlimited storage_
+- **[Penty](http://github.com/jeswinsunsi/pentyDesktopAssistant)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(Python)** _A Windows desktop assistant with GUI._
+- **[HouseChat](https://github.com/LinusS1/HouseChat)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Simple messaging for Apple devices _
+- **[LMGTFYAsAService](https://github.com/LinusS1/LMGTFYAsAService)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _macOS Service to help those who don't help themselves_
+- **[Scrapple](https://github.com/LinusS1/Scrapple)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Post scrappy updates from your Mac!_
+
+## Developer Utilities
+- **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@gleich](https://github.com/gleich) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
+- **[ffgen](http://github.com/cjdenio/ffgen)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _🎨 Quickly and easily generate @font-face rules for CSS!_
+- **[statuser](https://github.com/gleich/statuser)** - [@gleich](https://github.com/gleich) - **(Go)** _📣  A user-friendly status outputting library for go_
+- **[awesome-stack](https://github.com/Borrus-sudo/awesome-stack)** - [@Borrus-sudo](https://github.com/Borrus-sudo) - **(JavaScript)** _⚡ Github README stats  for your favourite web dev stack_
+- **[home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _A collection of serverless functions to automate different services._
+- **[sailboat](https://github.com/cole-wilson/sailboat)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _🐍 A quick and easy way to distribute your Python projects!_
+- **[idyllic](https://github.com/rishiosaur/idyllic)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _⚡️ An unopinionated language for building APIs ridiculously fast._
+- **[Lucia](https://github.com/aidenybai/lucia)** - [@aidenybai](https://github.com/aidenybai) - **(TypeScript)** _🙋‍♀️ 3kb library for tiny web apps_
+- **[vue-generator-graph](https://github.com/Borrus-sudo/vue-generator-graph)** - [@Borrus-sudo](https://github.com/Borrus-sudo) - **(TypeScript)** _Creates a graph of your vuejs projects by statically analyzing imports!_
+- **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
+- **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
+
+## Fun & Games
+- **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
+- **[sound-festival](https://github.com/sampoder/sound-festival)** - [@sampoder](https://github.com/sampoder) - **(C++)** _An interactive sound festival built for Innovation Week 2021_
+- **[devchat](https://github.com/quackduck/devchat)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Chat over SSH - Run `ssh sshchat.hackclub.com -p 2222` to join!_
+- **[dance-x-factor](https://github.com/sampoder/dance-x-factor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💃 Do some dancing and the X-Factor judges (AI) will judge you!_
+- **[holocron](https://github.com/sampoder/holocron)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🥽 Use your Jedi Challenges headset for anything!_
+- **[live-draw](https://github.com/sampoder/live-draw)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖍A live activity for events where attendees write code to draw!_
+- **[The Nerfanator](https://github.com/sampoder/nerfanator)** - [@sampoder](https://github.com/sampoder) - **(Python)** _"The Ultimate Home Protector", more like the worst._
+- **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
+
 ## GitHub Actions
 - **[gh_fsync](https://github.com/gleich/gh_fsync)** - [@gleich](https://github.com/gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
 - **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
@@ -60,36 +90,7 @@
 - **[namech](http://github.com/nindroz/namech)** - [@nindroz](https://github.com/nindroz) - **(JavaScript)** _Change the name of your project anytime with a simple CLI tool_
 - **[nought](https://github.com/cole-wilson/nought)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _A super customizable file cleaner/organizer/automator for developers._
 - **[p5_commander](https://github.com/SquarePear/p5_commander)** - [@SquarePear](https://github.com/SquarePear) - **(TypeScript)** _A tool to easily manage and create p5 sketches_
-
-## Desktop Apps
-- **[TeleDrive](https://github.com/KhushrajRathod/TeleDrive)** - [@KhushrajRathod](https://github.com/KhushrajRathod) - **(JavaScript)** _Backup files (watch a dir) to telegram saved messages for unlimited storage_
-- **[Penty](http://github.com/jeswinsunsi/pentyDesktopAssistant)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(Python)** _A Windows desktop assistant with GUI._
-- **[HouseChat](https://github.com/LinusS1/HouseChat)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Simple messaging for Apple devices _
-- **[LMGTFYAsAService](https://github.com/LinusS1/LMGTFYAsAService)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _macOS Service to help those who don't help themselves_
-- **[Scrapple](https://github.com/LinusS1/Scrapple)** - [@LinusS1](https://github.com/LinusS1) - **(Swift)** _Post scrappy updates from your Mac!_
-
-## Developer Utilities
-- **[import_sorter](https://github.com/fluttercommunity/import_sorter)** - [@gleich](https://github.com/gleich) - **(Dart)** _🎯  Dart package that automatically sorts all your flutter or dart imports._
-- **[ffgen](http://github.com/cjdenio/ffgen)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _🎨 Quickly and easily generate @font-face rules for CSS!_
-- **[statuser](https://github.com/gleich/statuser)** - [@gleich](https://github.com/gleich) - **(Go)** _📣  A user-friendly status outputting library for go_
-- **[awesome-stack](https://github.com/Borrus-sudo/awesome-stack)** - [@Borrus-sudo](https://github.com/Borrus-sudo) - **(JavaScript)** _⚡ Github README stats  for your favourite web dev stack_
-- **[home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _A collection of serverless functions to automate different services._
-- **[sailboat](https://github.com/cole-wilson/sailboat)** - [@cole-wilson](https://github.com/cole-wilson) - **(Python)** _🐍 A quick and easy way to distribute your Python projects!_
-- **[idyllic](https://github.com/rishiosaur/idyllic)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _⚡️ An unopinionated language for building APIs ridiculously fast._
-- **[Lucia](https://github.com/aidenybai/lucia)** - [@aidenybai](https://github.com/aidenybai) - **(TypeScript)** _🙋‍♀️ 3kb library for tiny web apps_
-- **[vue-generator-graph](https://github.com/Borrus-sudo/vue-generator-graph)** - [@Borrus-sudo](https://github.com/Borrus-sudo) - **(TypeScript)** _Creates a graph of your vuejs projects by statically analyzing imports!_
-- **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
-- **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
-
-## Fun & Games
-- **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
-- **[sound-festival](https://github.com/sampoder/sound-festival)** - [@sampoder](https://github.com/sampoder) - **(C++)** _An interactive sound festival built for Innovation Week 2021_
-- **[devchat](https://github.com/quackduck/devchat)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Chat over SSH - Run `ssh sshchat.hackclub.com -p 2222` to join!_
-- **[dance-x-factor](https://github.com/sampoder/dance-x-factor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💃 Do some dancing and the X-Factor judges (AI) will judge you!_
-- **[holocron](https://github.com/sampoder/holocron)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🥽 Use your Jedi Challenges headset for anything!_
-- **[live-draw](https://github.com/sampoder/live-draw)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖍A live activity for events where attendees write code to draw!_
-- **[The Nerfanator](https://github.com/sampoder/nerfanator)** - [@sampoder](https://github.com/sampoder) - **(Python)** _"The Ultimate Home Protector", more like the worst._
-- **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
+- **[Zeus](https://github.com/Borrus-sudo/Zeus)** - [@Borrus-sudo](https://github.com/Borrus-sudo) - **(TypeScript)** _A modern cross platform `ls` to scale your producitivity to the moon 🚀_
 
 ## ✨ Adding your project
 
