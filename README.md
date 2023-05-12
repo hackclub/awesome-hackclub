@@ -1,56 +1,6 @@
 # 😎 Awesome Hack Club [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A collection of super awesome projects made by hackclubbers
 
-## Fun & Games
-- **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
-- **[sound-festival](https://github.com/sampoder/sound-festival)** - [@sampoder](https://github.com/sampoder) - **(C++)** _An interactive sound festival built for Innovation Week 2021_
-- **[devchat](https://github.com/quackduck/devchat)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Chat over SSH - Run `ssh sshchat.hackclub.com -p 2222` to join!_
-- **[dance-x-factor](https://github.com/sampoder/dance-x-factor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💃 Do some dancing and the X-Factor judges (AI) will judge you!_
-- **[holocron](https://github.com/sampoder/holocron)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🥽 Use your Jedi Challenges headset for anything!_
-- **[live-draw](https://github.com/sampoder/live-draw)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖍A live activity for events where attendees write code to draw!_
-- **[The Nerfanator](https://github.com/sampoder/nerfanator)** - [@sampoder](https://github.com/sampoder) - **(Python)** _"The Ultimate Home Protector", more like the worst._
-- **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
-
-## GitHub Actions
-- **[gh_fsync](https://github.com/gleich/gh_fsync)** - [@gleich](https://github.com/gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
-- **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
-- **[profile_stack](https://github.com/gleich/profile_stack)** - [@gleich](https://github.com/gleich) - **(Python)** _🚀 Display your tech stack on your GitHub profile's README_
-
-## Slack Apps/Bots
-- **[slack-uno](https://github.com/cjdenio/slack-uno)** - [@cjdenio](https://github.com/cjdenio) - **(Dart)** _🎮 Play Uno in Slack!_
-- **[gex_slack](https://github.com/gleich/gex_slack)** - [@gleich](https://github.com/gleich) - **(Go)** _🦎 A slack bot for random gex quotes_
-- **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
-- **[carbon-slack](https://github.com/faisalsayed10/carbon-slack)** - [@faisalsayed10](https://github.com/faisalsayed10) - **(JavaScript)** _Create and share beautiful images of your source code directly in slack._
-- **[FRCBot](http://github.com/deniosoftware/frcbot)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _FRC integration for Slack!_
-- **[HackClubKarma](https://github.com/khrj/HackClubKarma)** - [@khrj](https://github.com/khrj) - **(JavaScript)** _Karma system @hackclub_
-- **[LightningDelete](https://github.com/khrj/LightningDelete)** - [@khrj](https://github.com/khrj) - **(JavaScript)** _Slack bot that lets you instantly delete your last message(s)_
-- **[Today](https://github.com/LinusS1/Today)** - [@LinusS1](https://github.com/LinusS1) - **(Python)** _Date as a Service: Get today's date in Slack._
-- **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
-- **[Prox2](https://github.com/anirudhb/prox2)** - [@anirudhb](https://github.com/anirudhb) - **(TypeScript)** _The reincarnation of Prox._
-- **[Teller](https://github.com/rishiosaur/teller)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _🚀 The Slackbot for human HN interaction!_
-
-## Web Apps
-- **[buzza](https://github.com/sampoder/buzza)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💥 A buzzer app for Quiz Bowls made using Socket.io & Javascript. _
-- **[certificates](https://github.com/garyhtou/certificates)** - [@garyhtou](https://github.com/garyhtou) - **(JavaScript)** _Simple award certificate distribution system with a personalized link per recipient._
-- **[collab-hub](https://github.com/sampoder/collab-hub)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖌 A platform for students to collaborate on art virtually_
-- **[democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ Explore the State of Democracy around the world._
-- **[Hazen Zoom](https://github.com/garyhtou/Hazen-Zoom)** - [@garyhtou](https://github.com/garyhtou) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
-- **[markdown-editor](https://github.com/ni5arga/markdown-editor)** - [@ni5arga](https://github.com/ni5arga) - **(JavaScript)** _A markdown editor built with react_
-- **[personal-project-showcase](https://github.com/sampoder/personal-project-showcase)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _A website to showcase my peer's MYP personal projects!_
-- **[scrapbook-network](https://github.com/hackclub/scrapbook-network)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _Representation of the network created by Scrapbook's webring feature._
-- **[The State of Democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ The State of Democracy, around the world._
-- **[traffic-monitor](https://github.com/sampoder/traffic-monitor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🚦Monitor the traffic around Singapore!_
-- **[umbrella](https://github.com/googol88/umbrella)** - [@googol88](https://github.com/googol88) - **(JavaScript)** _☂️ A platform for social activists to create Post-It note murals_
-- **[weatherer](https://github.com/faisalsayed10/weatherer)** - [@faisalsayed10](https://github.com/faisalsayed10) - **(JavaScript)** _Weather app build with React JS and a Weather API._
-- **[wordcounter](https://github.com/jasonappah/wordcounter)** - [@jasonappah](https://github.com/jasonappah) - **(JavaScript)** _Next.js app to keep track of a document's word count in a simple, easy UI_
-- **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
-- **[nahor](https://github.com/Rohan-Bansal/nahor)** - [@Rohan-Bansal](https://github.com/Rohan-Bansal) - **(Python)** _a custom url-shortener for personal (or public) use!_
-- **[LL](https://github.com/rishiosaur/ll)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A minimal (but blazing fast) link shortener written on Vercel and Firebase._
-
-## Browser Extensions
-- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
-- **[Shakespeare Insults](https://github.com/JeswinSunsi/Shakespeare)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(JavaScript)** _Generate funny English insults with Shakespeare's vocabulary._
-
 ## CLI Tools
 - **[Aces](http://github.com/quackduck/aces)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Encode in a character set of your choice. Aces is a generalized encoder._
 - **[cool](http://github.com/quackduck/cool)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Cool is a fan control CLI with pretty visuals._
@@ -93,6 +43,57 @@
 - **[vue-generator-graph](https://github.com/Borrus-sudo/vue-generator-graph)** - [@Borrus-sudo](https://github.com/Borrus-sudo) - **(TypeScript)** _Creates a graph of your vuejs projects by statically analyzing imports!_
 - **[web-api](https://github.com/slack-deno/web-api)** - [@slack-deno](https://github.com/slack-deno) - **(TypeScript)** _Deno port of @slack/web-api_
 - **[Webring API](http://github.com/rishiosaur/webring-api)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A basic API for interacting with the Hack Club Webring!_
+
+## Fun & Games
+- **[climatator](https://github.com/sampoder/climatator)** - [@sampoder](https://github.com/sampoder) - **(C++)** _A 4D experience showcasing the upcoming challenges caused by global warming_
+- **[sound-festival](https://github.com/sampoder/sound-festival)** - [@sampoder](https://github.com/sampoder) - **(C++)** _An interactive sound festival built for Innovation Week 2021_
+- **[devchat](https://github.com/quackduck/devchat)** - [@quackduck](https://github.com/quackduck) - **(Go)** _Chat over SSH - Run `ssh sshchat.hackclub.com -p 2222` to join!_
+- **[dance-x-factor](https://github.com/sampoder/dance-x-factor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💃 Do some dancing and the X-Factor judges (AI) will judge you!_
+- **[holocron](https://github.com/sampoder/holocron)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🥽 Use your Jedi Challenges headset for anything!_
+- **[live-draw](https://github.com/sampoder/live-draw)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖍A live activity for events where attendees write code to draw!_
+- **[The Nerfanator](https://github.com/sampoder/nerfanator)** - [@sampoder](https://github.com/sampoder) - **(Python)** _"The Ultimate Home Protector", more like the worst._
+- **[Figma Pong](http://github.com/cjdenio/figma-pong)** - [@cjdenio](https://github.com/cjdenio) - **(TypeScript)** _Unwind by playing a classic game of Pong, right in your Figma documents!_
+
+## GitHub Actions
+- **[gh_fsync](https://github.com/gleich/gh_fsync)** - [@gleich](https://github.com/gleich) - **(Go)** _🔄 GitHub action to sync files across repos in GitHub_
+- **[Contributor List](https://github.com/cjdenio/contributor_list)** - [@cjdenio](https://github.com/cjdenio) - **(Python)** _👥 Easily list contributors on your README!_
+- **[profile_stack](https://github.com/gleich/profile_stack)** - [@gleich](https://github.com/gleich) - **(Python)** _🚀 Display your tech stack on your GitHub profile's README_
+
+## Slack Apps/Bots
+- **[slack-uno](https://github.com/cjdenio/slack-uno)** - [@cjdenio](https://github.com/cjdenio) - **(Dart)** _🎮 Play Uno in Slack!_
+- **[gex_slack](https://github.com/gleich/gex_slack)** - [@gleich](https://github.com/gleich) - **(Go)** _🦎 A slack bot for random gex quotes_
+- **[Replier](https://github.com/cjdenio/replier)** - [@cjdenio](https://github.com/cjdenio) - **(Go)** _Autoreplies for Slack, made simple and powerful._
+- **[carbon-slack](https://github.com/faisalsayed10/carbon-slack)** - [@faisalsayed10](https://github.com/faisalsayed10) - **(JavaScript)** _Create and share beautiful images of your source code directly in slack._
+- **[FRCBot](http://github.com/deniosoftware/frcbot)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _FRC integration for Slack!_
+- **[HackClubKarma](https://github.com/khrj/HackClubKarma)** - [@khrj](https://github.com/khrj) - **(JavaScript)** _Karma system @hackclub_
+- **[LightningDelete](https://github.com/khrj/LightningDelete)** - [@khrj](https://github.com/khrj) - **(JavaScript)** _Slack bot that lets you instantly delete your last message(s)_
+- **[slack-spotify-bot](https://github.com/ni5arga/slack-spotify-bot)** - [@ni5arga](https://github.com/ni5arga) - **(JavaScript)** _A slack bot which shows what you're vibing to on Spotify._
+- **[Today](https://github.com/LinusS1/Today)** - [@LinusS1](https://github.com/LinusS1) - **(Python)** _Date as a Service: Get today's date in Slack._
+- **[Paevik](https://github.com/rishiosaur/paevik)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _📝 A tiny journal bot for Slack!_
+- **[Prox2](https://github.com/anirudhb/prox2)** - [@anirudhb](https://github.com/anirudhb) - **(TypeScript)** _The reincarnation of Prox._
+- **[Teller](https://github.com/rishiosaur/teller)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _🚀 The Slackbot for human HN interaction!_
+
+## Web Apps
+- **[buzza](https://github.com/sampoder/buzza)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _💥 A buzzer app for Quiz Bowls made using Socket.io & Javascript. _
+- **[certificates](https://github.com/garyhtou/certificates)** - [@garyhtou](https://github.com/garyhtou) - **(JavaScript)** _Simple award certificate distribution system with a personalized link per recipient._
+- **[collab-hub](https://github.com/sampoder/collab-hub)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖌 A platform for students to collaborate on art virtually_
+- **[democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ Explore the State of Democracy around the world._
+- **[Hazen Zoom](https://github.com/garyhtou/Hazen-Zoom)** - [@garyhtou](https://github.com/garyhtou) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
+- **[markdown-editor](https://github.com/ni5arga/markdown-editor)** - [@ni5arga](https://github.com/ni5arga) - **(JavaScript)** _A markdown editor built with react_
+- **[personal-project-showcase](https://github.com/sampoder/personal-project-showcase)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _A website to showcase my peer's MYP personal projects!_
+- **[scrapbook-network](https://github.com/hackclub/scrapbook-network)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _Representation of the network created by Scrapbook's webring feature._
+- **[The State of Democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ The State of Democracy, around the world._
+- **[traffic-monitor](https://github.com/sampoder/traffic-monitor)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🚦Monitor the traffic around Singapore!_
+- **[umbrella](https://github.com/googol88/umbrella)** - [@googol88](https://github.com/googol88) - **(JavaScript)** _☂️ A platform for social activists to create Post-It note murals_
+- **[weatherer](https://github.com/faisalsayed10/weatherer)** - [@faisalsayed10](https://github.com/faisalsayed10) - **(JavaScript)** _Weather app build with React JS and a Weather API._
+- **[wordcounter](https://github.com/jasonappah/wordcounter)** - [@jasonappah](https://github.com/jasonappah) - **(JavaScript)** _Next.js app to keep track of a document's word count in a simple, easy UI_
+- **[Zoom Dashboard](https://github.com/sarthaktexas/zoom-dashboard)** - [@sarthaktexas](https://github.com/sarthaktexas) - **(JavaScript)** _Dashboard to keep track of your zoom links easily._
+- **[nahor](https://github.com/Rohan-Bansal/nahor)** - [@Rohan-Bansal](https://github.com/Rohan-Bansal) - **(Python)** _a custom url-shortener for personal (or public) use!_
+- **[LL](https://github.com/rishiosaur/ll)** - [@rishiosaur](https://github.com/rishiosaur) - **(TypeScript)** _A minimal (but blazing fast) link shortener written on Vercel and Firebase._
+
+## Browser Extensions
+- **[Scroll Tracker](http://github.com/cjdenio/scroll-tracker)** - [@cjdenio](https://github.com/cjdenio) - **(JavaScript)** _Track your scrolling distance on a variety of websites!_
+- **[Shakespeare Insults](https://github.com/JeswinSunsi/Shakespeare)** - [@JeswinSunsi](https://github.com/JeswinSunsi) - **(JavaScript)** _Generate funny English insults with Shakespeare's vocabulary._
 
 ## ✨ Adding your project
 
