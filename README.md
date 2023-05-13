@@ -78,6 +78,7 @@
 - **[certificates](https://github.com/garyhtou/certificates)** - [@garyhtou](https://github.com/garyhtou) - **(JavaScript)** _Simple award certificate distribution system with a personalized link per recipient._
 - **[collab-hub](https://github.com/sampoder/collab-hub)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _🖌 A platform for students to collaborate on art virtually_
 - **[democracy](https://github.com/sampoder/democracy)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _⚖️ Explore the State of Democracy around the world._
+- **[DevPad](https://github.com/ni5arga/DevPad)** - [@ni5arga](https://github.com/ni5arga) - **(JavaScript)** _Web based code editor for frontend with live preview feature!_
 - **[Hazen Zoom](https://github.com/garyhtou/Hazen-Zoom)** - [@garyhtou](https://github.com/garyhtou) - **(JavaScript)** _Individual personalized dashboards with Zoom links for classes at Hazen High School_
 - **[markdown-editor](https://github.com/ni5arga/markdown-editor)** - [@ni5arga](https://github.com/ni5arga) - **(JavaScript)** _A markdown editor built with react_
 - **[personal-project-showcase](https://github.com/sampoder/personal-project-showcase)** - [@sampoder](https://github.com/sampoder) - **(JavaScript)** _A website to showcase my peer's MYP personal projects!_
